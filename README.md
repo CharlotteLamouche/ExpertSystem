@@ -11,5 +11,5 @@ L’objet du TP03 est de réaliser le développement d’un SE de sa phase d�
     
 Documents à produire :
   - Un rapport écrit comportant les réponses aux points précédents et présentant des scénarios d’utilisation.
- - Un fichier comportant le code lisp de votre SE avec les scénarios d’utilisation (à envoyer par courriel).
- - Une courte présentation orale s’appuyant sur des transparents et une démonstration sont attendues au cours du dernier TD.
+  - Un fichier comportant le code lisp de votre SE avec les scénarios d’utilisation (à envoyer par courriel).
+  - Une courte présentation orale s’appuyant sur des transparents et une démonstration sont attendues au cours du dernier TD.
